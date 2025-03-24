@@ -8,6 +8,7 @@ body {
 header {
     background-color: #ffcccc;
     padding: 20px;
+    margin: 5px;
 }
 
 .content-wrapper {
@@ -21,12 +22,14 @@ header {
 nav {
     background-color: #ffdb99;
     padding: 15px;
+    margin: 5px;
 }
 
 main {
     background-color: #ccffcc;
     padding: 20px;
     flex: 3;
+    margin: 5px;
 }
 
 section {
