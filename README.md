@@ -23,3 +23,7 @@ Objetivo:
 
 Este repositório serve como um guia para aprender e aplicar corretamente as tags semânticas, melhorando a estrutura e acessibilidade do HTML5.
 
+```bash
+git clone https://github.com/gabrielribeirobr/semantic-html.git
+```
+
